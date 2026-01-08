@@ -34,7 +34,7 @@
         <mxCell id="S8pQqVRAbf7QEjuGCsiZ-3" parent="S8pQqVRAbf7QEjuGCsiZ-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Nvidia RTX Ada 4000&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PCIe 4.0 GPU&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="S8pQqVRAbf7QEjuGCsiZ-4" parent="S8pQqVRAbf7QEjuGCsiZ-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;NVMe SSD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PCIe 4.0&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="S8pQqVRAbf7QEjuGCsiZ-4" parent="S8pQqVRAbf7QEjuGCsiZ-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;NVMe SSD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PCIe 5.0&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="240" y="200" as="geometry" />
         </mxCell>
         <mxCell id="S8pQqVRAbf7QEjuGCsiZ-5" edge="1" parent="S8pQqVRAbf7QEjuGCsiZ-29" source="S8pQqVRAbf7QEjuGCsiZ-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="S8pQqVRAbf7QEjuGCsiZ-1" value="">
